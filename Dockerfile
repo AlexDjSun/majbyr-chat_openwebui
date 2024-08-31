@@ -1,4 +1,4 @@
-FROM dyrnq/open-webui:main
+FROM dyrnq/open-webui:latest
 
 COPY join_network.sh /usr/local/bin/join_network.sh
 
